@@ -15,7 +15,7 @@ A brief description of what your project does and its purpose.
 First, clone the repository:
 
 ```bash
-git clone
+git clone https://github.com/vivek64003/sparklehood
 
 cd your-project-name
 
